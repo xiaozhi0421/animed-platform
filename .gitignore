@@ -1,0 +1,7 @@
+﻿node_modules/
+dist/
+dist_temp/
+.vite/
+*.log
+*.bak
+*.old_base

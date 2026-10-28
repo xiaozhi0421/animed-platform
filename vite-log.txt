@@ -1,0 +1,44 @@
+﻿npx : [unplugin-vue-components] component "NumberTicker"(C:/Users/14195/Documents/bishe/animed-platform/animed-frontend
+/src/components/ui/number-ticker/NumberTicker.vue) has naming conflicts with other components, ignored.
+所在位置 行:1 字符: 70
++ ... d-platform\animed-frontend'; npx vite --port 3000 --host 2>&1 | Out-F ...
++                                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([unplugin-vue-c...nents, ignored.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m2798[22m[2m[0m ms[22m
+
+  [32m鉃?[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m鉃?[39m  [1mNetwork[22m: [36mhttp://172.25.80.1:[1m3000[22m/[39m
+  [32m鉃?[39m  [1mNetwork[22m: [36mhttp://172.20.10.10:[1m3000[22m/[39m
+  [32m鉃?[39m  [1mNetwork[22m: [36mhttp://192.168.183.1:[1m3000[22m/[39m
+  [32m鉃?[39m  [1mNetwork[22m: [36mhttp://192.168.174.1:[1m3000[22m/[39m
+[2m[32m  鉃?[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+[2m16:50:53[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/auto-imports.d.ts[22m
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+[2m17:23:21[22m [36m[1m[vite][22m[39m [32m鉁?new dependencies optimized: [33melement-plus/es/components/slider/style/css, element-plus/es/components/divider/style/css[32m[39m
+[2m17:23:21[22m [36m[1m[vite][22m[39m [32m鉁?optimized dependencies changed. reloading[39m
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
+DEPRECATION WARNING [legacy-js-api]: The legacy JS API is deprecated and will be removed in Dart Sass 2.0.0.
+
+More info: https://sass-lang.com/d/legacy-js-api
+
